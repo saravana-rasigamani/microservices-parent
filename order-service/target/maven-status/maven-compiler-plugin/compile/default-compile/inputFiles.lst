@@ -1,0 +1,9 @@
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\entity\Order.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\repository\OrderRepository.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\dto\InventoryResponse.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\service\OrderService.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\dto\OrderRequest.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\dto\OrderLineItemsDto.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\entity\OrderLineItems.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\OrderServiceApplication.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\controller\OrderServiceController.java
