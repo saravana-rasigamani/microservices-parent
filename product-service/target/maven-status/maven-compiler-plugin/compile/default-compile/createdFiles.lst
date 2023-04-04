@@ -1,10 +1,17 @@
 com\practice\productservice\controller\ProductController.class
+com\practice\productservice\repository\UserRepository.class
+com\practice\productservice\config\UserInfoUserDetailsService.class
 com\practice\productservice\dto\ProductRequest.class
 com\practice\productservice\ProductServiceApplication.class
 com\practice\productservice\dto\ProductResponse$ProductResponseBuilder.class
 com\practice\productservice\dto\ProductRequest$ProductRequestBuilder.class
 com\practice\productservice\entity\Product$ProductBuilder.class
 com\practice\productservice\entity\Product.class
+com\practice\productservice\service\JwtService.class
+com\practice\productservice\dto\AuthRequest.class
+com\practice\productservice\config\UserInfoUserDetails.class
 com\practice\productservice\dto\ProductResponse.class
+com\practice\productservice\entity\UserInfo.class
+com\practice\productservice\config\SecurityConfig.class
 com\practice\productservice\repository\ProductRepository.class
 com\practice\productservice\service\ProductService.class

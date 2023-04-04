@@ -1,4 +1,5 @@
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\entity\Order.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\config\WebClientConfig.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\repository\OrderRepository.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\dto\InventoryResponse.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\order-service\src\main\java\com\practice\orderservice\service\OrderService.java

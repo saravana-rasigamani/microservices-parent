@@ -1,7 +1,12 @@
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\config\UserInfoUserDetails.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\repository\ProductRepository.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\entity\Product.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\controller\ProductController.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\repository\UserRepository.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\dto\ProductResponse.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\config\UserInfoUserDetailsService.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\ProductServiceApplication.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\entity\UserInfo.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\dto\ProductRequest.java
+C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\config\SecurityConfig.java
 C:\Users\kumar\Learning\Java\microservices_grouped\parent-microservices\product-service\src\main\java\com\practice\productservice\service\ProductService.java

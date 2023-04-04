@@ -2,10 +2,10 @@ com\practice\orderservice\dto\InventoryResponse.class
 com\practice\orderservice\entity\Order.class
 com\practice\orderservice\config\WebClientConfig.class
 com\practice\orderservice\repository\OrderRepository.class
-com\practice\orderservice\dto\OrderRequest.class
-com\practice\orderservice\dto\OrderLineItemsDto.class
 com\practice\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\practice\orderservice\dto\OrderRequest.class
 com\practice\orderservice\entity\OrderLineItems.class
+com\practice\orderservice\dto\OrderLineItemsDto.class
 com\practice\orderservice\OrderServiceApplication.class
 com\practice\orderservice\controller\OrderServiceController.class
 com\practice\orderservice\service\OrderService.class
